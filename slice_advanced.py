@@ -3,5 +3,4 @@ def slice_advanced():
 
 	print(texto[5: :2])
 
-slice_advanced()
-  
+
