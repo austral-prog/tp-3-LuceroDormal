@@ -1,6 +1,4 @@
-def slice_simple():
-    texto = "Awesome"
+def slice_advanced():
+	texto = input("Ingresar un texto:")
 
-    print(texto[:3].lower())
-    print(texto[2:5])
-    print(texto.lower())
+	print(texto[5: :2])
